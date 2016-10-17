@@ -80,7 +80,7 @@ delegate method to retrive cropped image.
 
                    DESC
 
-  s.homepage     = "https://www.github.com/cemolcay/ImageFreeCut"
+  s.homepage     = "https://github.com/cemolcay/ImageFreeCut"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -132,7 +132,7 @@ delegate method to retrive cropped image.
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://www.github.com/cemolcay/ImageFreeCut.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/cemolcay/ImageFreeCut.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
