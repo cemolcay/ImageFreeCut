@@ -6,7 +6,7 @@ A UIView subclass lets you draw a path over a image and crops thats part.
 Demo
 ----
 
-![alt tag]()
+![alt tag](https://github.com/cemolcay/ImageFreeCut/raw/master/Demo.gif)
 
 Requirements
 ----
