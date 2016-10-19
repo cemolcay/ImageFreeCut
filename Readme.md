@@ -1,7 +1,7 @@
 ImageFreeCut
 ===
 
-A UIView subclass lets you draw a path over a image and crops thats part.
+A UIView subclass lets you draw a path over an image and crops that part.
 
 Demo
 ----
