@@ -39,21 +39,21 @@ import ImageFreeCut
 You can either use storyboard or create it programmatically like any UIView.  
 Notice that view's class name is `ImageFreeCutView`.  
 
-Sets the image of `ImageFreeCutView`. You are going to crop that one.
 ```
 open var imageToCut: UIImage?
 ```
-
-You can set the imageView's properties like `contentMode` directly from your `ImageFreeCutView` instance.
+Sets the image of `ImageFreeCutView`. You are going to crop that one.
+  
 ```
 open var imageView: UIImageView!
 ```
+You can set the imageView's properties like `contentMode` directly from your `ImageFreeCutView` instance.
 
-You can set cut layer's properties like `strokeColor`, `fillColor`, `dashPattern` directly from your `ImageFreeCutView` instance.
 ```
 open var imageCutShapeLayer: CAShapeLayer!
 ```
-
+You can set cut layer's properties like `strokeColor`, `fillColor`, `dashPattern` directly from your `ImageFreeCutView` instance.
+  
 ImageFreeCutViewDelegate
 ----
 Set your instance delegate and implement
