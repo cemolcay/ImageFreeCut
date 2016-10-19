@@ -8,6 +8,12 @@ Demo
 
 ![alt tag](https://github.com/cemolcay/ImageFreeCut/raw/master/Demo.gif)
 
+#### Try
+
+``` sh
+pod try ImageFreeCut
+```
+
 Requirements
 ----
 
